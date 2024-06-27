@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="28d70a32-3be8-4216-8b26-85dd4255209d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -12,26 +14,135 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="develop4" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2i2xvJenHYNc53nw9gRlaY8iLQH" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;JUnit.CreatedOrderTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CreatedOrderTest.orderCreatedWithAnInvalidUHash.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CreatedOrderTest.orderCreatedWithoutAuthorization.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CreatedOrderTest.orderCreatedWithoutIngredients.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.GetOrders.getOrders.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.GetOrdersTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserCreatedNegativeTest.courierCreatedWithLoginAndFirstnameFields.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserCreatedNegativeTest.courierCreatedWithLoginAndPasswordFields.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserCreatedNegativeTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserCreatedTest.courierCreatedTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserCreatedTest.dontCreateTwoIdenticalUsers.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserCreatedTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserCreatedTest.userCreatedTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserLoginTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserLoginTest.successfulAuthorization.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserUpdateTest.changeFieldEmail.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserUpdateTest.changeFieldEmailWithoutAuthorization.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserUpdateTest.changeFieldName.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserUpdateTest.changeFieldNameWithoutAuthorization.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserUpdateTest.changeFieldPassword.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserUpdateTest.changeFieldPasswordWithoutAuthorization.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserUpdateTest.deleteUser.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserUpdateTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserUpdateWithoutAuthorization.changeFieldEmailWithoutAuthorization.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserUpdateWithoutAuthorization.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserUpdateWithoutAuthorizationTest.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;develop2&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.CreatedOrderTest.orderCreatedWithAnInvalidUHash">
+    <configuration name="CreatedOrderTest.orderCreatedWithAnInvalidUHash" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Diplom_2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CreatedOrderTest" />
+      <option name="METHOD_NAME" value="orderCreatedWithAnInvalidUHash" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CreatedOrderTest.orderCreatedWithoutAuthorization" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Diplom_2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CreatedOrderTest" />
+      <option name="METHOD_NAME" value="orderCreatedWithoutAuthorization" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CreatedOrderTest.orderCreatedWithoutIngredients" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Diplom_2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CreatedOrderTest" />
+      <option name="METHOD_NAME" value="orderCreatedWithoutIngredients" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GetOrdersTest.getOrders" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Diplom_2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GetOrdersTest" />
+      <option name="METHOD_NAME" value="getOrders" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserUpdateWithoutAuthorizationTest.changeFieldEmailWithoutAuthorization" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Diplom_2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="UserUpdateWithoutAuthorizationTest" />
+      <option name="METHOD_NAME" value="changeFieldEmailWithoutAuthorization" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.GetOrdersTest.getOrders" />
+        <item itemvalue="JUnit.CreatedOrderTest.orderCreatedWithoutIngredients" />
+        <item itemvalue="JUnit.CreatedOrderTest.orderCreatedWithAnInvalidUHash" />
+        <item itemvalue="JUnit.CreatedOrderTest.orderCreatedWithoutAuthorization" />
+        <item itemvalue="JUnit.UserUpdateWithoutAuthorizationTest.changeFieldEmailWithoutAuthorization" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
