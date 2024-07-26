@@ -4,34 +4,163 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="28d70a32-3be8-4216-8b26-85dd4255209d" name="Changes" comment="">
+    <list default="true" id="28d70a32-3be8-4216-8b26-85dd4255209d" name="Changes" comment="На проверку">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/20d766ea-1672-4b1c-9093-5d98cb3ee965-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/24f91306-a7cf-4ab1-89a7-f06786b9cf9b-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/398fad55-5bbf-43f4-94d7-fe913635f0f3-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/5312dd0e-44ee-4a34-99fd-40793aba97a6-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/56343618-04ec-4243-9995-329821c0f271-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/6a484ed6-7ce9-49c9-8c01-75ac99f677bc-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/6e40c34d-be76-44de-9ca5-e87fbcb5b970-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/99d4618c-3a0f-44ae-970a-9d84f5a03ed8-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/99f204cf-d3a4-49b5-adb4-ee0a24b6869a-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/a37710bb-7ee9-43c2-b5d2-b99ae1b49d38-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/a7602a3b-3fc7-44b5-a01a-a2699d4c581b-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/ba11195d-c18d-465c-835d-5b027202dd84-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/bee658b9-4c61-465a-8f2a-cfedd5e375c0-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/d5dd12f4-2a59-49a2-ac7b-06485f222d06-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/d71bd1b9-55ea-4cb1-82cc-144e92897e47-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/e41601fe-3d2b-4366-82a8-17082e48f116-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/e6299eb4-397d-49fd-af54-3fa39713c0b3-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/fa4ddf9e-c27a-4cb6-aeba-1c4394986250-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/fea493ce-8031-4098-9760-86b06c418250-result.json" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="develop4" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2i2xvJenHYNc53nw9gRlaY8iLQH" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;JUnit.CreatedOrderTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CreatedOrderTest.orderCreatedWithAnInvalidUHash.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CreatedOrderTest.orderCreatedWithoutAuthorization.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CreatedOrderTest.orderCreatedWithoutIngredients.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.GetOrders.getOrders.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.GetOrdersTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserCreatedNegativeTest.courierCreatedWithLoginAndFirstnameFields.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserCreatedNegativeTest.courierCreatedWithLoginAndPasswordFields.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserCreatedNegativeTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserCreatedTest.courierCreatedTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserCreatedTest.dontCreateTwoIdenticalUsers.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserCreatedTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserCreatedTest.userCreatedTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserLoginTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserLoginTest.successfulAuthorization.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserUpdateTest.changeFieldEmail.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserUpdateTest.changeFieldEmailWithoutAuthorization.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserUpdateTest.changeFieldName.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserUpdateTest.changeFieldNameWithoutAuthorization.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserUpdateTest.changeFieldPassword.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserUpdateTest.changeFieldPasswordWithoutAuthorization.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserUpdateTest.deleteUser.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserUpdateTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserUpdateWithoutAuthorization.changeFieldEmailWithoutAuthorization.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserUpdateWithoutAuthorization.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserUpdateWithoutAuthorizationTest.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;develop2&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.CreatedOrderTest.orderCreatedWithAnInvalidUHash">
+    <configuration name="CreatedOrderTest.orderCreatedWithAnInvalidUHash" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Diplom_2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CreatedOrderTest" />
+      <option name="METHOD_NAME" value="orderCreatedWithAnInvalidUHash" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CreatedOrderTest.orderCreatedWithoutAuthorization" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Diplom_2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CreatedOrderTest" />
+      <option name="METHOD_NAME" value="orderCreatedWithoutAuthorization" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CreatedOrderTest.orderCreatedWithoutIngredients" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Diplom_2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CreatedOrderTest" />
+      <option name="METHOD_NAME" value="orderCreatedWithoutIngredients" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GetOrdersTest.getOrders" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Diplom_2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GetOrdersTest" />
+      <option name="METHOD_NAME" value="getOrders" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserUpdateWithoutAuthorizationTest.changeFieldEmailWithoutAuthorization" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Diplom_2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="UserUpdateWithoutAuthorizationTest" />
+      <option name="METHOD_NAME" value="changeFieldEmailWithoutAuthorization" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.GetOrdersTest.getOrders" />
+        <item itemvalue="JUnit.CreatedOrderTest.orderCreatedWithoutIngredients" />
+        <item itemvalue="JUnit.CreatedOrderTest.orderCreatedWithAnInvalidUHash" />
+        <item itemvalue="JUnit.CreatedOrderTest.orderCreatedWithoutAuthorization" />
+        <item itemvalue="JUnit.UserUpdateWithoutAuthorizationTest.changeFieldEmailWithoutAuthorization" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -41,6 +170,19 @@
       <option name="presentableId" value="Default" />
       <updated>1718702702550</updated>
     </task>
+    <task id="LOCAL-00001" summary="На проверку">
+      <option name="closed" value="true" />
+      <created>1719503373843</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1719503373843</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="На проверку" />
+    <option name="LAST_COMMIT_MESSAGE" value="На проверку" />
   </component>
 </project>
